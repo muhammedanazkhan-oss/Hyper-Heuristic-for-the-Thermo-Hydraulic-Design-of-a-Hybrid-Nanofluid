@@ -1,0 +1,62 @@
+[
+  {
+    "target": "eta",
+    "n_estimators": 300,
+    "max_depth": 6,
+    "logspace": false,
+    "R2": 0.999792,
+    "RMSE": 0.0023,
+    "MAE": 0.00136,
+    "MAPE": 0.2423,
+    "fit_s": 8.8,
+    "n_test": 8165
+  },
+  {
+    "target": "Wp",
+    "n_estimators": 300,
+    "max_depth": 6,
+    "logspace": true,
+    "R2": 0.999953,
+    "RMSE": 0.00725,
+    "MAE": 0.00327,
+    "MAPE": 0.7569,
+    "fit_s": 9.0,
+    "n_test": 8165
+  },
+  {
+    "target": "Re",
+    "n_estimators": 300,
+    "max_depth": 6,
+    "logspace": false,
+    "R2": 0.999999,
+    "RMSE": 7.1293,
+    "MAE": 5.05769,
+    "MAPE": 0.3052,
+    "fit_s": 9.2,
+    "n_test": 8165
+  },
+  {
+    "target": "To",
+    "n_estimators": 300,
+    "max_depth": 6,
+    "logspace": false,
+    "R2": 0.999997,
+    "RMSE": 0.04541,
+    "MAE": 0.03154,
+    "MAPE": 0.059,
+    "fit_s": 9.4,
+    "n_test": 8165
+  },
+  {
+    "target": "PEC",
+    "n_estimators": 350,
+    "max_depth": 7,
+    "logspace": false,
+    "R2": 0.410211,
+    "RMSE": 0.00615,
+    "MAE": 0.00091,
+    "MAPE": 0.0941,
+    "fit_s": 14.6,
+    "n_test": 8165
+  }
+]

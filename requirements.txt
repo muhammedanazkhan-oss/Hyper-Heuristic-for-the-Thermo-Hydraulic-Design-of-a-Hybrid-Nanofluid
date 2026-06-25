@@ -1,0 +1,8 @@
+# Python >= 3.10
+# The pipeline is pure NumPy: the gradient-boosted-tree surrogate and all
+# statistical tests (Friedman, Nemenyi, Wilcoxon, Holm) are implemented from
+# first principles. SciPy and scikit-learn are NOT required.
+numpy>=1.24
+pandas>=2.0
+openpyxl>=3.1        # only to read the .xlsx dataset
+matplotlib>=3.7      # only to regenerate figures

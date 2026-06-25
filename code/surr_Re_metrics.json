@@ -1,0 +1,12 @@
+{
+  "target": "Re",
+  "n_estimators": 300,
+  "max_depth": 6,
+  "logspace": false,
+  "R2": 0.999999,
+  "RMSE": 7.1293,
+  "MAE": 5.05769,
+  "MAPE": 0.3052,
+  "fit_s": 9.0,
+  "n_test": 8165
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "target": "eta",
+    "n_estimators": 300,
+    "max_depth": 6,
+    "logspace": false,
+    "R2": 0.999792,
+    "RMSE": 0.0023,
+    "MAE": 0.00136,
+    "MAPE": 0.2423,
+    "fit_s": 9.2,
+    "n_test": 8165
+  },
+  {
+    "target": "Wp",
+    "n_estimators": 300,
+    "max_depth": 6,
+    "logspace": true,
+    "R2": 0.999953,
+    "RMSE": 0.00725,
+    "MAE": 0.00327,
+    "MAPE": 0.7569,
+    "fit_s": 8.8,
+    "n_test": 8165
+  }
+]
