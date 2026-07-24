@@ -1,0 +1,9 @@
+factor,PEC_S1,eta_S1,PEC_mu_star,PEC_sigma
+hybrid pair,0.0764,0.0,0.0083,0.0226
+base fluid,0.0208,0.2568,0.0067,0.0389
+weight fraction,0.0515,0.0,0.0094,0.0404
+component share,0.0292,0.0,0.0053,0.0237
+flow rate,0.0047,0.0735,0.0076,0.1158
+inlet temp,0.0011,0.2068,0.0028,0.0379
+irradiance,0.0007,0.2081,0.0011,0.0269
+ambient temp,0.0001,0.036,0.0003,0.0171

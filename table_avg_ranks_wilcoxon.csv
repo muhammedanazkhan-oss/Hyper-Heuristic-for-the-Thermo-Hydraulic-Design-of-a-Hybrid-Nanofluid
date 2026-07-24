@@ -1,0 +1,49 @@
+block,method,avg_rank,wilcoxon_vs_HHUCB_holm
+all 12 problems,HH-UCB,4.667,0.0
+all 12 problems,HH-Random,4.5,1.0
+all 12 problems,DE,3.833,1.0
+all 12 problems,CMA-ES,4.583,1.0
+all 12 problems,SA,6.208,0.0806
+all 12 problems,Tabu,7.708,0.0519
+all 12 problems,VNS,3.833,0.5967
+all 12 problems,LNS,6.833,0.1377
+all 12 problems,DE/rand/1,5.208,1.0
+all 12 problems,DE/best/1,7.625,0.0859
+all 12 problems,PSO,15.875,0.0327
+all 12 problems,perturb-V,12.458,0.0327
+all 12 problems,perturb-w,12.583,0.0327
+all 12 problems,perturb-share,13.0,0.0327
+all 12 problems,swap-hybrid,14.167,0.0327
+all 12 problems,swap-fluid,12.917,0.0327
+8 benchmarks,HH-UCB,5.0,0.0
+8 benchmarks,HH-Random,4.75,1.0
+8 benchmarks,DE,3.75,1.0
+8 benchmarks,CMA-ES,3.125,0.9312
+8 benchmarks,SA,6.5,0.1948
+8 benchmarks,Tabu,8.375,0.1948
+8 benchmarks,VNS,3.75,0.5967
+8 benchmarks,LNS,8.25,0.1948
+8 benchmarks,DE/rand/1,4.25,1.0
+8 benchmarks,DE/best/1,7.25,0.3899
+8 benchmarks,PSO,16.0,0.1948
+8 benchmarks,perturb-V,12.938,0.1948
+8 benchmarks,perturb-w,12.75,0.1948
+8 benchmarks,perturb-share,12.562,0.1948
+8 benchmarks,swap-hybrid,13.875,0.1948
+8 benchmarks,swap-fluid,12.875,0.1948
+4 ETC problems,HH-UCB,4.0,0.0
+4 ETC problems,HH-Random,4.0,1.0
+4 ETC problems,DE,4.0,1.0
+4 ETC problems,CMA-ES,7.5,1.0
+4 ETC problems,SA,5.625,1.0
+4 ETC problems,Tabu,6.375,1.0
+4 ETC problems,VNS,4.0,1.0
+4 ETC problems,LNS,4.0,1.0
+4 ETC problems,DE/rand/1,7.125,1.0
+4 ETC problems,DE/best/1,8.375,1.0
+4 ETC problems,PSO,15.625,1.0
+4 ETC problems,perturb-V,11.5,1.0
+4 ETC problems,perturb-w,12.25,1.0
+4 ETC problems,perturb-share,13.875,1.0
+4 ETC problems,swap-hybrid,14.75,1.0
+4 ETC problems,swap-fluid,13.0,1.0

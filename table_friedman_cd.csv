@@ -1,0 +1,4 @@
+block,friedman_chi2,df,p_value,iman_davenport_F,N_blocks,CD_0p05
+all 12 problems,147.619,15,7.160897554535632e-24,50.147,12,6.659
+8 benchmarks,99.841,15,1.3985548052973091e-14,34.668,8,8.156
+4 ETC problems,55.287,15,1.5980824779936993e-06,35.192,4,11.534

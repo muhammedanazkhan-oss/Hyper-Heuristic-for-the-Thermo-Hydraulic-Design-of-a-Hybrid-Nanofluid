@@ -1,0 +1,5 @@
+problem,metric,HH_config,surrogate,simulator,grid_truth,grid_config,gap_to_grid_pct
+ETC-Eff-op1,efficiency,Graphene-TiO2/Distilled water w=0.52 s=39.7 V=2.65,0.76033,0.75964,0.7616,Al2O3-Cu/Distilled water w=2.0 s=25 V=3.0,0.167
+ETC-Eff-op2,efficiency,Graphene-TiO2/Distilled water w=2.51 s=36.1 V=3.51,0.73636,0.73529,0.7367,Al2O3-Cu/Distilled water w=3.0 s=25 V=4.0,0.046
+ETC-PEC-op1,PEC,Al2O3-Cu/EG/water 60:40 w=2.81 s=25.0 V=2.09,1.01053,1.00992,1.011,Al2O3-Cu/EG/water 60:40 w=3.0 s=25 V=2.0,0.047
+ETC-PEC-op2,PEC,Al2O3-Cu/EG/water 60:40 w=2.93 s=25.0 V=1.07,1.00878,1.01172,1.0128,Al2O3-Cu/EG/water 60:40 w=3.0 s=25 V=1.0,0.397
