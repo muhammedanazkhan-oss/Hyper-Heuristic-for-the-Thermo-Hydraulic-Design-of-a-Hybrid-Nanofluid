@@ -1,0 +1,5 @@
+# Python >= 3.10  (archived results produced with Python 3.11.15)
+numpy==2.4.4
+pandas>=2.0
+openpyxl>=3.1        # only to read the .xlsx dataset
+matplotlib>=3.7      # only to regenerate figures

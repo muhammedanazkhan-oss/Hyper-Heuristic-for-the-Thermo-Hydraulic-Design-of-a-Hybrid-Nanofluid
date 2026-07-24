@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: >-
+  Sensitivity-Guided Selection Hyper-Heuristic for the
+  Thermo-Hydraulic Design of a Hybrid-Nanofluid
+  Evacuated-Tube Collector (reproducibility package)
+message: >-
+  If you use this software or data, please cite both the
+  Zenodo record and the associated journal article.
+type: software
+authors:
+  - given-names: Muhammed Anaz
+    family-names: Khan
+    email: mkhan@ub.edu.sa
+    orcid: 'https://orcid.org/0000-0002-8837-9865'
+    affiliation: >-
+      Department of Mechanical Engineering, College of
+      Engineering, University of Bisha, Bisha 61922,
+      P.O. Box 551, Saudi Arabia
+version: 1.0.3
+date-released: '2026-07-23'
+license: MIT
+doi: 10.5281/zenodo.XXXXXXXX
+url: 'https://doi.org/10.5281/zenodo.XXXXXXXX'
+repository-code: 'https://doi.org/10.5281/zenodo.XXXXXXXX'
+keywords:
+  - selection hyper-heuristic
+  - upper confidence bound
+  - late-acceptance hill-climbing
+  - hybrid nanofluid
+  - evacuated-tube solar collector
+  - surrogate-assisted optimization
+  - sensitivity analysis
+  - gradient-boosted regression trees

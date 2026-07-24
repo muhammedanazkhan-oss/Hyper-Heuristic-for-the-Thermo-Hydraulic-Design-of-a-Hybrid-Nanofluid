@@ -1,0 +1,40 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+This license applies to the NON-CODE materials in this repository:
+  - data/ETC_Hybrid_Nanofluid_Sweep.xlsx        (the full-factorial dataset)
+  - code/surr_*.pkl                              (trained surrogate models)
+  - code/results.csv, code/conv/, code/traces/   (derived numerical results)
+  - code/figs/                                    (figures)
+  - all *_results.json, *_metrics.json and results_tables.xlsx (derived results)
+
+The source code (code/*.py) is licensed separately under the MIT License; see LICENSE.
+
+Copyright (c) 2026 Muhammed Anaz Khan.
+
+You are free to:
+  Share  - copy and redistribute the material in any medium or format.
+  Adapt  - remix, transform, and build upon the material for any purpose,
+           even commercially.
+
+Under the following terms:
+  Attribution - You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made. You may do so in any reasonable
+  manner, but not in any way that suggests the licensor endorses you or your use.
+
+No additional restrictions - You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+Suggested attribution:
+  Muhammed Anaz Khan, "Sensitivity-Guided Selection Hyper-Heuristic for the
+  Thermo-Hydraulic Design of a Hybrid-Nanofluid Evacuated-Tube Collector
+  (reproducibility package)", version 1.0.3, Zenodo, 2026,
+  https://doi.org/10.5281/zenodo.XXXXXXXX. Licensed under CC BY 4.0.
+
+The full license text (legal code) is available at:
+  https://creativecommons.org/licenses/by/4.0/legalcode
+A human-readable summary of the license is available at:
+  https://creativecommons.org/licenses/by/4.0/
+
+THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND. TO THE EXTENT
+POSSIBLE UNDER LAW, THE LICENSOR OFFERS THE MATERIAL AS-IS AND MAKES NO
+REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE MATERIAL.
